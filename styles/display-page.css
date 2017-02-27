@@ -1,0 +1,60 @@
+main {
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0;
+
+}
+
+
+.half {
+	display: inline-block;
+	border: 1px solid black;
+	height: 200px;
+	width: 50%;
+	font-size: 0;
+
+}
+
+
+.green {
+	
+	background-color: green;
+	
+
+}
+
+
+.blue {
+	background-color: blue;
+
+}
+
+
+.third {
+	display: inline-block;
+	border: 1px solid black;
+	height: 300px;
+	width: 33.33%;
+	font-size: 0;
+
+}
+
+
+.gray {
+	background-color: gray;
+
+}
+
+
+.black {
+	background-color: black;
+
+}
+
+
+.gold {
+	background-color: orange;
+
+}
